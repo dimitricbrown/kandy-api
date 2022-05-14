@@ -1,0 +1,188 @@
+{
+    "locations":[
+        {
+            "id": 1,
+            "name": "Paizhou",
+            "address": "39579 Muir Alley"
+        },
+        {
+            "id": 2,
+            "name": "Jinping",
+            "address": "92 Eastwood Hill"
+        },
+        {
+            "id": 3,
+            "name": "Krasae Sin",
+            "address": "95 Drewry Crossing"
+        },
+        {
+            "id": 4,
+            "name": "Avanca",
+            "address": "209 Sage Terrace"
+        }, 
+        {
+            "id": 5,
+            "name": "Medenine",
+            "address": "4 Pierstorff Lane"
+        }, 
+        {
+            "id": 6,
+            "name": "Ndibène Dahra",
+            "address": "9 Graedel Pass"
+        }, 
+        {
+            "id": 7,
+            "name": "Teplice",
+            "address": "81 Anniversary Hill"
+        }, 
+        {
+            "id": 8,
+            "name": "Xo’jayli Shahri",
+            "address": "0227 Coolidge Way"
+        }, 
+        {
+            "id": 9,
+            "name": "Nanyi",
+            "address": "70 Vera Circle"
+        }, 
+        {
+            "id": 10,
+            "name": "Albuquerque",
+            "address": "69 Blackbird Place"
+        }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "name": "Bubble Max",
+            "price": 2.50,
+            "productTypeId": 3
+        },
+        {
+            "id": 2,
+            "name": "Chocolate",
+            "price": 2.50,
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Lollipops",
+            "price": 2.00,
+            "productTypeId": 1
+        },
+        {
+            "id": 4,
+            "name": "Licorice",
+            "price": 1.00,
+            "productTypeId": 3
+        }
+    ],
+    "employees":[
+        {
+            "id": 1,
+            "name": "Kiley Parlott",
+            "locationId": 1
+        }, 
+        {
+            "id": 2,
+            "name": "Winonah Clelland",
+            "locationId": 8
+        }, 
+        {
+            "id": 3,
+            "name": "Stanwood Chezier",
+            "locationId": 6
+        }, 
+        {
+            "id": 4,
+            "name": "Frederigo Skellon",
+            "locationId": 10
+        }, 
+        {
+            "id": 5,
+            "name": "Elissa Gonsalvez",
+            "locationId": 5
+        }, 
+        {
+            "id": 6,
+            "name": "Denni Siely",
+            "locationId": 6
+        }
+    ],
+    "productTypes":[
+        {
+            "id": 1,
+            "type": "Hard Candies"
+        },
+        {
+            "id": 2,
+            "type": "Chocolates"
+        },
+        {
+            "id": 3,
+            "type": "Gummies"
+        }
+    ],
+    "customers":[
+        {
+            "id": 1,
+            "name": "Toinette Vollam"
+        }, 
+        {
+            "id": 2,
+            "name": "Paulette Pickaver"
+        }, 
+        {
+            "id": 3,
+            "name": "Kirby Prigmore"
+        }, 
+        {
+            "id": 4,
+            "name": "Elvina Mardlin"
+        }
+    ],
+    "purchases":[
+        {
+            "id": 1,
+            "customerId": 3,
+            "total": 100.00,
+            "date": "3/2/2022"
+        }, 
+        {
+            "id": 2,
+            "customerId": 1,
+            "total": 20.00,
+            "date": "4/1/2022"
+        }, 
+        {
+            "id": 3,
+            "customerId": 4,
+            "total": 50.00,
+            "date": "2/10/2022"
+        }, 
+        {
+            "id": 4,
+            "customerId": 1,
+            "total": 30.00,
+            "date": "3/28/2022"
+        }, 
+        {
+            "id": 5,
+            "customerId": 2,
+            "total": 30.00,
+            "date": "5/15/2021"
+        }, 
+        {
+            "id": 6,
+            "customerId": 3,
+            "total": 10.00,
+            "date": "2/22/2022"
+        }, 
+        {
+            "id": 7,
+            "customerId": 2,
+            "total": 2.50,
+            "date": "1/6/2022"
+        }
+    ]
+}
